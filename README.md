@@ -11,7 +11,7 @@ I'm a beginner coder passionate about C++ programming. Welcome to my GitHub prof
 ## 🌐 Connect with Me 
 
 - LinkedIn: www.linkedin.com/in/adrija-chakraborty
-- Twitter: [[@YourTwitterHandle](link-to-your-twitter)](https://x.com/adstracted?t=FB35btew0TIBmWmPJiBmhg&s=08)
+- Twitter: https://x.com/adstracted?t=FB35btew0TIBmWmPJiBmhg&s=08
 - Email: chakrabortyadrija29@gmail.com 
 
 Let's connect and learn from each other! 
