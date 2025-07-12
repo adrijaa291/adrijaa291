@@ -3,10 +3,9 @@ I'm a beginner coder passionate about C++ programming. Welcome to my GitHub prof
 
 ## 🚀 About Me 
 
-- 🌱 I'm currently learning C++ and exploring its vast possibilities.
-- 💡 I'm excited to collaborate on open-source projects.
-- 📚 I'm constantly expanding my knowledge in data structures and algorithms.
-- 🎯 My goal is to become a proficient C++ developer. 
+- 🌱 I enjoy solving DSA questions and my language of choice is C++.
+- 💡 I like playing with data and making sense out of it.
+- 📚 I also enjoy devops.
 
 ## 🌐 Connect with Me 
 
@@ -18,8 +17,8 @@ Let's connect and learn from each other!
 
 ## 🛠️ Tools and Technologies 
 
-- C++
-- Git & GitHub
-- Visual Studio Code 
+- C++, Python, R
+- Git & GitHub, CI/CD, K8s
+- Tensorflow, scikit-learn, Pytorch
 
 Feel free to reach out if you have questions, want to collaborate, or just chat about coding. I'm always open to learning and growing as a developer.
